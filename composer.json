@@ -1,16 +1,16 @@
 {
-    "name": "laravel/passport",
+    "name": "donglf/passport",
     "description": "Laravel Passport provides OAuth2 server support to Laravel.",
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/laravel/passport/issues",
-        "source": "https://github.com/laravel/passport"
+        "issues": "https://github.com/donglf681/passport/issues",
+        "source": "https://github.com/donglf681/passport"
     },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "donglf",
+            "email": "donglf@88.com"
         }
     ],
     "require": {
